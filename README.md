@@ -227,4 +227,4 @@ Most email nowadays contain a boat load of html tags and hyperlinked images. It 
 
 
 <!-- Links -->
-[racket-imap]: http://pkg-build.racket-lang.org/doc/net/imap.html#%28def._%28%28lib._net%2Fimap..rkt%29._imap-get-messages%29%29
+[racket-imap]: http://docs.racket-lang.org/net/imap.html
